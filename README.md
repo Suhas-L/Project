@@ -1,2 +1,2 @@
 # Project
-Election of Candidates
+Student management
