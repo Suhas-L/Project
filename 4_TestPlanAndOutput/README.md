@@ -1,3 +1,3 @@
 TEST PLAN AND TEST OUTPUT
 
-> Add all the test paln and test output related files under thiS folder
+> Add all the test plan and test output related files under this folder
