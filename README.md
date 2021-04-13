@@ -2,6 +2,8 @@
 
 Student management system
 
+![IMG_5205](https://user-images.githubusercontent.com/80455876/114570204-4499fc80-9c93-11eb-8b6e-39622b758937.JPG)
+
 # What Are Student Management Systems?
 A student management system (also known as a student information system or SIS) helps a school manage data, communications, and scheduling. A school system generates and uses a large amount of data. This data must be communicated appropriately to students, faculty, and parents. A student management system helps schools to store, manage, and distribute this information.
 
