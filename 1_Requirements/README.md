@@ -53,4 +53,5 @@ To manage enormous amount of data, it becomes important to include a managing to
 
 | ID | Description | Category | Status |
 | --- | --- | --- | --- | 
+| HR01 | User shall be able to add new Student record | Techincal | TBD-S1 |
 
