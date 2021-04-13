@@ -26,4 +26,6 @@ To manage enormous amount of data, it becomes important to include a managing to
 
 # SWOT ANALYSIS
 
+![IMG_5209](https://user-images.githubusercontent.com/80455876/114574603-04d51400-9c97-11eb-914a-d23692822d81.jpg)
+
 
