@@ -47,3 +47,8 @@ To manage enormous amount of data, it becomes important to include a managing to
  
 # How:
    Administrating staffs in Schools,Colleges,Tution Centres and Universities will maintain all records regarding students with the help of this system through PC's.
+
+# Detail requirements
+# High Level Requirements:
+ID -	Description	- Category	- Status
+
