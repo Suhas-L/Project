@@ -54,4 +54,12 @@ To manage enormous amount of data, it becomes important to include a managing to
 | ID | Description | Category | Status |
 | --- | --- | --- | --- | 
 | HR01 | User shall be able to add new Student record | Techincal | TBD-S1 |
+| HR02 | User shall be able to delete a Student record | Technical| TBD-S1 |
+| HR03 | User shall be able to print a Student record | Technical| TBD-S1 |
+| HR04 | User shall be able to check whether a Student is eligible| Technical| TBD-S1 |
+| HR05 | User shall be able to make choices on what to do on a Student record | Technical| TBD-S1 |
+| HR06 | Data should not be lost in case of faliure	| Scenario	| FUTURE |
+| HR07 | Data should not be lost in case of faliure |	Scenario	| TBD-S1 |
+
+
 
