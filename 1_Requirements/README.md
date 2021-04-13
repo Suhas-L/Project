@@ -23,4 +23,7 @@ To manage enormous amount of data, it becomes important to include a managing to
 6.Organise and simplify everyday tasks.
 7.Centralised data and easy access to all.
 8.Time table and attendance management.
- 
+
+# SWOT ANALYSIS
+
+
