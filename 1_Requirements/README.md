@@ -64,5 +64,5 @@ To manage enormous amount of data, it becomes important to include a managing to
 # Low level Requirements:
 
 | ID | Description | HRL ID | Status (Implemented/Future) |
-| LR01 | New record shall be added by providing all the asked information and the id should be unique  else patient record should not be accepted | HR01 | TBD-S1 |
+| LR01 | New record shall be added by providing all the asked information - and the id should be unique  else patient record should not be accepted | HR01 | TBD-S1 |
 
