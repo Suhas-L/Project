@@ -50,5 +50,6 @@ To manage enormous amount of data, it becomes important to include a managing to
 
 # Detail requirements
 # High Level Requirements:
-ID-Description-Category-Status
+
+| ID | Description | Category | Status |
 
