@@ -61,5 +61,8 @@ To manage enormous amount of data, it becomes important to include a managing to
 | HR06 | Data should not be lost in case of faliure	| Scenario	| FUTURE |
 | HR07 | Data should not be lost in case of faliure |	Scenario	| TBD-S1 |
 
+# Low level Requirements:
 
+| ID | Description | HRL ID | Status (Implemented/Future) |
+| LR01 | New record shall be added by providing all the asked information and the id should be unique  else patient record should not be accepted | HR01 | TBD-S1 |
 
