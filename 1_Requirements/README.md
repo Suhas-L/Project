@@ -64,6 +64,7 @@ To manage enormous amount of data, it becomes important to include a managing to
 # Low level Requirements:
 
 | ID | Description | HRL ID | Status (Implemented/Future) |
+| --- | --- | --- | --- |
 | LR01 | New record shall be added by providing all the asked information | HR01 | TBD-S1 |
 | LR02 | Student record shall be deleted completely | HR02 | TBD-S1 |
 | LR03 | All the information of the student given should be printed | HR03 | TBD-S1 |
