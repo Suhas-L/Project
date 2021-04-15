@@ -6,6 +6,10 @@
 
 ![C/C++](https://www.code-inspector.com/project/21296/status/svg)
 
+Build | Code Quality | Unity | Git Inspector
+|---------|------------|-----------|----------------
+|         | ![C/C++](https://www.code-inspector.com/project/21296/status/svg) |    | 
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------------
@@ -14,14 +18,23 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 `5_Report`         | Report of the project
-`Images`           | Screen of the code output
+`Images`           | Screenshot of the code output
 
 ## Contributors List and Summary
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `259908` | Suhas L  | F_01, F_02, F_03, F_04, F_05  | 6     | 4   |5  |5  
-   
+
+| Feature Id | Feature |
+| -----------|---------|
+|F_01| Add new student record |
+|F_02| Check if student record added if its eligible or not for the exam |
+|F_03| Calculates students attendence percentage |
+|F_04| Delete a student record |
+|F_05| Prints the student records| 
+
+
 ## Learning Resources :
 
 1. https://github.com/adam-p/markdown-here.git - Markdown Cheatsheet.
