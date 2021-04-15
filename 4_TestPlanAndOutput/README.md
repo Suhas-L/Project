@@ -1,6 +1,6 @@
 # TEST PLAN:
 
-## Table no: High level test plan
+##  High level test plan
 
 | **Test ID** | **Description**            | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|----------------------------|-------------|----------------|------------------|
@@ -12,7 +12,7 @@
 
 
 
-## Table no: Low level test plan
+##  Low level test plan
 
 | **Test ID** | **Description**            | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|----------------------------|-------------|----------------|------------------|
