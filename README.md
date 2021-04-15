@@ -20,3 +20,9 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `259908` | Suhas L  | F_01, F_02, F_03, F_04, F_05, F_06, F_07, F_08, F_09   | 14     | 7   |13  |13     
    
+## Learning Resources
+
+1. markdownCheatsheet
+2. markdownBasics
+3. git inspector
+4. github workflow
