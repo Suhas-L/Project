@@ -5,8 +5,7 @@ Student management system
 ![IMG_5205](https://user-images.githubusercontent.com/80455876/114570204-4499fc80-9c93-11eb-8b6e-39622b758937.JPG)
 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b20c7c3ec7f4734b42cc0d04dcf3fb2)](https://app.codacy.com/manual/stepin654321/MiniProject_Template?utm_source=github.com&utm_medium=referral&utm_content=stepin654321/MiniProject_Template&utm_campaign=Badge_Grade_Dashboard)
-
+https://www.code-inspector.com/project/21296/status/svg
 
 |Build|Unit Test|cppcheck|Valgrind|Codacy|
 |:--:|:--:|:--:|:--:|:--:|
