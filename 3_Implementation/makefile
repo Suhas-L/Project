@@ -1,12 +1,11 @@
 # Name of the project
-PROJECT_NAME = SMS
+PROJECT_NAME = Project
 
 # Output directory
 BUILD = build
 
 # All source code files
 SRC = main.c\
-src/student_management_system.c
 	src/add.c\
 	src/delete.c\
 	src/execute.c\
@@ -14,8 +13,13 @@ src/student_management_system.c
 	src/eligible.c\
 
 # All test source files
-TEST_SRC = src/student_management_system.c\
-test/test_student_management.c\
+TEST_SRC = main.c\
+	src/add.c\
+	src/delete.c\
+	src/execute.c\
+	src/print.c\
+	src/eligible.c\
+test/main.c\
 unity/unity.c\
 
 TEST_OUTPUT = Test_$(PROJECT_NAME).out
