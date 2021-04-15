@@ -10,7 +10,8 @@ Student management systems provide many benefits to educational institutions, mo
 
 # REQUIREMENTS:
 
-![IMG_5203](https://user-images.githubusercontent.com/80455876/114554448-5aec8c00-9c84-11eb-9ff8-c50dc60f9fe8.JPG)
+![IMG_5279](https://user-images.githubusercontent.com/80455876/114927672-5a542100-9e4f-11eb-8d3c-b480a5ded26f.JPG)
+
 
 The education system has constantly been evolving, hence to keep up with new channels of education we need to evolve our system to store information by automating the traditional ways and bringing more structure to the curriculum.
 To manage enormous amount of data, it becomes important to include a managing tool to your School. A Student Management System is solution to all the requirements a school work on. Various features like admission, attendance, fee collection library, examination, timetable, student performance report etc.
@@ -50,6 +51,7 @@ To manage enormous amount of data, it becomes important to include a managing to
    Administrating staffs in Schools,Colleges,Tution Centres and Universities will maintain all records regarding students with the help of this system through PC's.
 
 # Detail requirements
+
 # High Level Requirements:
 
 
