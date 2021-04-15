@@ -43,6 +43,5 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## References :
 
-1. Arnob
+1. https://github.com/arc-arnob/LnT_Mini_Project.git
 2. https://github.com/stepin654321/MiniProject_Template.git
-3. https://github.com/stepin654321/MiniProject_Template.git
