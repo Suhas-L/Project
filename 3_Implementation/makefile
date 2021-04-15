@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = student
+PROJECT_NAME = SMS
 
 # Output directory
 BUILD = build
@@ -7,6 +7,11 @@ BUILD = build
 # All source code files
 SRC = main.c\
 src/student_management_system.c
+	src/add.c\
+	src/delete.c\
+	src/execute.c\
+	src/print.c\
+	src/eligible.c\
 
 # All test source files
 TEST_SRC = src/student_management_system.c\
