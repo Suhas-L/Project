@@ -22,7 +22,7 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
    
 ## Learning Resources
 
-1. markdownCheatsheet
-2. markdownBasics
+1. https://github.com/adam-p/markdown-here.git - Markdown Cheatsheet.
+2. https://guides.github.com/features/mastering-markdown/ - MarkdownBasics
 3. git inspector
 4. github workflow
