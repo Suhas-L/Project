@@ -4,7 +4,6 @@
 
 ![IMG_5205](https://user-images.githubusercontent.com/80455876/114570204-4499fc80-9c93-11eb-8b6e-39622b758937.JPG)
 
-![C/C++](https://www.code-inspector.com/project/21296/status/svg)
 
 Build | Code Quality | Unity | Git Inspector
 |---------|------------|-----------|----------------
@@ -29,10 +28,10 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 | Feature Id | Feature |
 | -----------|---------|
 |F_01| Add new student record |
-|F_02| Check if student record added if its eligible or not for the exam |
+|F_02| Check if student record added is eligible or not for the exam |
 |F_03| Calculates students attendence percentage |
 |F_04| Delete a student record |
-|F_05| Prints the student records| 
+|F_05| Prints the students records| 
 
 
 ## Learning Resources :
@@ -44,6 +43,6 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## References :
 
-1. https://github.com/arc-arnob/LnT_Mini_Project.git
+1. 😃
 2. https://github.com/stepin654321/MiniProject_Template.git
 3. https://github.com/stepin654321/MiniProject_Template.git
