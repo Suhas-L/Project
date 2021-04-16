@@ -1,6 +1,6 @@
 #include "declfile.h"
 
-void deleteRecord(struct student s[])
+void delete(struct student s[])
 {
     int a = 0;
     printf("Enter the roll number of "
