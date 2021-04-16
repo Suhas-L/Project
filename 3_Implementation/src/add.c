@@ -1,49 +1,46 @@
-#include "declfile.h"
+#include"declarations.h"
 
- int option = 0;
-int i = 0;
-int n = 0;
-int j = 0;
-float present = 75.00;
-char money = 'P';
-float tdays = 1;
+
 void add(struct student s[50])
 {
     printf("Enter the total ");
+    float tdays;
     printf("number of working days \n");
     scanf("%f", &tdays);
-
-    printf("Enter the number");
-    printf("of students \n");
+    int n;
+    printf("Enter the number"
+           "of students \n");
     scanf("%d", &n);
-
-    for (i = 0; i < n; i++) {
-
+  
+    for (int i = 0; i < n; i++) {
+  
         printf("Student number %d \n",
-            (i + 1));
-
+               (i + 1));
+  
         printf("Enter the name of"
-            " the student \n");
+               " the student \n");
         scanf("%s", s[i].name);
-
+  
         printf("Enter the roll number \n");
         scanf(" %d", &s[i].rno);
-
+  
         printf("Enter the fees of the"
-            "student 'P' for paid "
-            ", 'N' for not paid \n");
+               "student 'P' for paid "
+               ", 'N' for not paid \n");
         scanf(" %c", &s[i].fees);
-
+  
         printf("Enter the number of"
-            "days the student was "
-            "present \n");
+               "days the student was "
+               "present \n");
         scanf("%f", &s[i].days);
-
+  
         s[i].attend = (s[i].days
-                    / tdays)
-                    * 100;
-        printf("student attendence = %f \n",
-            s[i].attend);
+                       / tdays)
+                      * 100;
+  
+        printf("student attendence"
+               " = %f \n",
+               s[i].attend);
     }
     execute();
 }
