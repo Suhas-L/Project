@@ -16,14 +16,13 @@ Folder             | Description
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
-`5_Report`         | Report of the project
 
 
 ## Contributors List and Summary
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`259908` | Suhas L  | F_01, F_02, F_03, F_04, F_05  | 6     | 4   |5  |5  
+`259908` | Suhas L  | F_01, F_02, F_03, F_04  | 6     | 4   |5  |5  
 
 | Feature Id | Feature |
 | -----------|---------|
