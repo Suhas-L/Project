@@ -7,7 +7,7 @@
 
 Build | Code Quality | Unity | Git Inspector
 |---------|------------|-----------|----------------|
-|  ![C/C++](https://img.shields.io/badge/Build%20Status-passing-brightgreen)       | ![C/C++](https://www.code-inspector.com/project/21296/status/svg) [![CI](https://github.com/Suhas-L/Project/actions/workflows/main.yml/badge.svg)](https://github.com/Suhas-L/Project/actions/workflows/main.yml)| ![C/C++](https://img.shields.io/badge/Unit%20Testing%20--%20Unity-passing-brightgreen)   | ![C/C++](https://img.shields.io/badge/Contribution%20Check%20--%20Git%20Inspector-passing-brightgreen)|
+|  ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B%20--%20CI%20Build%20Status-passing-brightgreen)      | ![C/C++](https://www.code-inspector.com/project/21296/status/svg) [![CI](https://github.com/Suhas-L/Project/actions/workflows/main.yml/badge.svg)](https://github.com/Suhas-L/Project/actions/workflows/main.yml) ![C/C++](https://img.shields.io/badge/Code%20Quality%20--%20Static%20Code%20--%20Cppcheck-passing-brightgreen) ![C/C++](https://img.shields.io/badge/Code%20Quality%20--%20Dynamic%20Code%20--%20Cppcheck-passing-brightgreen)| ![C/C++](https://img.shields.io/badge/Unit%20Testing%20--%20Unity-passing-brightgreen)   | ![C/C++](https://img.shields.io/badge/Contribution%20Check%20--%20Git%20Inspector-passing-brightgreen)|
 
 ## Folder Structure
 Folder             | Description
