@@ -28,7 +28,7 @@ void execute()
         break;
 
     case 2:
-        deleteRecord(s);
+        delete(s);
         execute();
         break;
 
@@ -60,7 +60,7 @@ void execute()
         break;
 
     case 5:
-        printStudents(s);
+        print_students(s);
         execute();
         break;
 
