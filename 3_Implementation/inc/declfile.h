@@ -38,11 +38,11 @@ void execute();
  * @brief Function to print the details of the student
  * 
  */
-void printStudents(struct student s[]);
+void print_students(struct student s[]);
 /**
  * @brief Function to delete a students record
  * 
  */
-void deleteRecord(struct student s[]);
+void delete(struct student s[]);
 
 #endif /** __DECLFILE_H__ **/
